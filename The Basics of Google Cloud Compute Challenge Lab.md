@@ -98,7 +98,7 @@ LABEOF
 After then 
 
 ```bash
-bash lab3.sh
+bash lab6.sh
 ```
 
 Click `Check my progress` on every task to see the result.
