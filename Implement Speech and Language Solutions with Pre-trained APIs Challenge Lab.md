@@ -169,5 +169,6 @@ echo
 echo ">>> Done. On the lab page, click 'Check my progress' for Tasks 2, 3, 4 and 5."
 LABEOF
 ```
-
+```bash
 bash speech_lab.sh
+```
